@@ -6,3 +6,6 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </p>
 
+Welcome to our online fashion store for women and men! Our platform offers a wide selection of clothes, accessories and footwear for everyone who values comfort, style and quality
+
+## About Us
