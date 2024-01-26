@@ -1,0 +1,17 @@
+.bottomBar {
+  margin-top: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.copyRight {
+  color: var(--color-text-grey);
+  font-size: 1.4rem;
+}
+
+.cardList {
+  display: inline-flex;
+  align-items: flex-end;
+  gap: 12px;
+}

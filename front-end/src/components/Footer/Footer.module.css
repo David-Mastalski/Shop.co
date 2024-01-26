@@ -1,0 +1,36 @@
+.footer {
+  background-color: var(--background-color-grey);
+  height: 499px;
+  width: 100%;
+  max-width: 100vw;
+  flex-shrink: 0;
+}
+
+.columnsWrapper {
+  margin-top: 140px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+
+.shortInfoColumn {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 3rem;
+}
+
+.shortInfoColumn .inner {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  align-items: flex-start;
+}
+
+.footerShopDescription {
+  color: var(--color-text-grey);
+  font-size: 1.4rem;
+  font-weight: 400;
+  max-width: 250px;
+}

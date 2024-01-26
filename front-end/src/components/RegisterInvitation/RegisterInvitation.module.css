@@ -1,0 +1,22 @@
+.registerWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background: #000;
+  height: 38px;
+  padding: 9px 100px;
+  width: 100vw;
+}
+
+.registerWrapper p {
+  color: #fff;
+  font-size: 1.2rem;
+  white-space: nowrap;
+}
+
+.registerWrapper p a {
+  color: #fff;
+  border-bottom: 1px solid currentColor;
+  margin-left: 5px;
+}

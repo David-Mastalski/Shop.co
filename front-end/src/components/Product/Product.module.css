@@ -1,0 +1,52 @@
+.product {
+  max-width: 296px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.imgContainer {
+  aspect-ratio: 1;
+  border-radius: 1.2rem;
+  width: 100%;
+  overflow: hidden;
+}
+
+.product img {
+  object-fit: cover;
+  object-position: center;
+  height: 100%;
+  width: 100%;
+}
+
+.productName {
+  font-size: 1.6rem;
+  font-weight: 500;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.prices {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.price,
+.previousPrice {
+  font-size: 2.4rem;
+  font-weight: 500;
+}
+
+.previousPrice {
+  color: rgb(167, 167, 167);
+  text-decoration: line-through;
+}
+
+.discount {
+  background-color: var(--color-pink);
+  border-radius: 6.2rem;
+  color: var(--color-red);
+  font-size: 1.2rem;
+  font-weight: 400;
+  padding: 6px 14px;
+}

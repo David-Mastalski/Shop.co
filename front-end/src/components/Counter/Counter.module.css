@@ -1,0 +1,25 @@
+.counter {
+  background-color: var(--background-color-grey);
+  border-radius: 6.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  padding: 10px 20px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.counter button {
+  background-color: transparent;
+  border: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.counter button img {
+  width: 13px;
+  height: 13px;
+}

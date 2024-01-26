@@ -1,0 +1,11 @@
+.brands {
+  background-color: #000;
+  width: 100%;
+}
+
+.brandsList {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 43px 0;
+}

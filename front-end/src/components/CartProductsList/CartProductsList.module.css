@@ -1,0 +1,28 @@
+.cartProductList {
+  display: flex;
+  flex-direction: column;
+  gap: 2.4rem;
+  flex: 1;
+}
+
+.cartIsEmptyMessage,
+.cartProductList {
+  border: 2px solid var(--background-color-grey);
+  border-radius: 2rem;
+
+  padding: 2rem 2.4rem;
+  width: 100%;
+}
+
+.cartIsEmptyMessage {
+  font-size: 1.8rem;
+  font-weight: 500;
+}
+
+.flexContainer {
+  margin-top: 2.4rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 3rem;
+}

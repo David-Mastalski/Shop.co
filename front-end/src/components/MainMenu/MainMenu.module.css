@@ -1,0 +1,31 @@
+.menuList {
+  display: flex;
+  align-items: center;
+  gap: 2.4rem;
+}
+
+.menuItem a {
+  font-size: 1.5rem;
+  font-weight: 400;
+  position: relative;
+  padding: 2px;
+}
+
+.menuItem a::before {
+  background-color: currentColor;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  content: "";
+  height: 2px;
+  width: 0%;
+  transition: width 0.3s;
+
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.menuItem a:global(.active)::before,
+.menuItem a:hover::before {
+  width: 100%;
+}

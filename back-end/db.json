@@ -1,0 +1,881 @@
+{
+  "women": {
+    "bestsellers": [
+      {
+        "id": 15,
+        "gender": "women",
+        "category": "clothes",
+        "subcategory": "t-shirts",
+        "productName": "PULL&BEAR T-SHIRT",
+        "brand": "PULL&BEAR",
+        "price": 50,
+        "previousPrice": 55,
+        "photos": [
+          "http://localhost:3000/product-photos/women/t-shirt/pull&bear/pull&bear.webp",
+          "http://localhost:3000/product-photos/women/t-shirt/pull&bear/pull&bear-1.webp",
+          "http://localhost:3000/product-photos/women/t-shirt/pull&bear/pull&bear-2.webp"
+        ],
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+        "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+      },
+      {
+        "id": 16,
+        "gender": "women",
+        "category": "clothes",
+        "subcategory": "t-shirts",
+        "productName": "Vans FLYING V - T-shirt",
+        "brand": "Vans",
+        "price": 16,
+        "previousPrice": null,
+        "photos": [
+          "http://localhost:3000/product-photos/women/t-shirt/vans/vans.webp",
+          "http://localhost:3000/product-photos/women/t-shirt/vans/vans-1.webp"
+        ],
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+        "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+      },
+      {
+        "id": 18,
+        "gender": "women",
+        "category": "clothes",
+        "subcategory": "sweaters",
+        "productName": "Vero Moda Petite",
+        "brand": "Vero Moda Petite'",
+        "price": 26,
+        "previousPrice": 35,
+        "photos": [
+          "http://localhost:3000/product-photos/women/sweaters/vero-moda/vero-moda.webp",
+          "http://localhost:3000/product-photos/women/sweaters/vero-moda/vero-moda-1.webp",
+          "http://localhost:3000/product-photos/women/sweaters/vero-moda/vero-moda-2.webp"
+        ],
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+        "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+      },
+      {
+        "id": 19,
+        "gender": "women",
+        "category": "shoes",
+        "subcategory": "sneakers",
+        "productName": "New Balance 550 UNISEX ",
+        "brand": "New Balance'",
+        "price": 108,
+        "previousPrice": 120,
+        "photos": [
+          "http://localhost:3000/product-photos/women/shoes/new-balance/new-balance.webp",
+          "http://localhost:3000/product-photos/women/shoes/new-balance/new-balance-1.webp",
+          "http://localhost:3000/product-photos/women/shoes/new-balance/new-balance-2.webp"
+        ],
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+        "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+      }
+    ]
+  },
+  "men": {
+    "bestsellers": [
+      {
+        "id": 2,
+        "gender": "men",
+        "category": "clothes",
+        "subcategory": "t-shirts",
+        "productName": "T-shirt PULL&BEAR",
+        "brand": "PULL&BEAR",
+        "price": 20,
+        "previousPrice": null,
+        "photos": [
+          "http://localhost:3000/product-photos/men/t-shirt/pull&bear/pull&bear.webp",
+          "http://localhost:3000/product-photos/men/t-shirt/pull&bear/pull&bear-1.webp",
+          "http://localhost:3000/product-photos/men/t-shirt/pull&bear/pull&bear-2.webp",
+          "http://localhost:3000/product-photos/men/t-shirt/pull&bear/pull&bear-3.webp"
+        ],
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+        "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+      },
+      {
+        "id": 3,
+        "gender": "men",
+        "category": "clothes",
+        "subcategory": "t-shirts",
+        "productName": "T-shirt Red Bull Racing",
+        "brand": "Red Bull Racing",
+        "price": 30,
+        "previousPrice": null,
+        "photos": [
+          "http://localhost:3000/product-photos/men/t-shirt/red-bull-racing/red-bull-racing.webp",
+          "http://localhost:3000/product-photos/ment-shirt/red-bull-racing/red-bull-racing-1.webp"
+        ],
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+        "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+      },
+      {
+        "id": 10,
+        "gender": "men",
+        "category": "clothes",
+        "subcategory": "sweaters",
+        "productName": "Pier One Sweater",
+        "brand": "Pier One'",
+        "price": 40,
+        "previousPrice": null,
+        "photos": [
+          "http://localhost:3000/product-photos/men/sweaters/pier-one/pier-one.webp",
+          "http://localhost:3000/product-photos/men/sweaters/pier-one/pier-one-1.webp",
+          "http://localhost:3000/product-photos/men/sweaters/pier-one/pier-one-2.webp",
+          "http://localhost:3000/product-photos/men/sweaters/pier-one/pier-one-3.webp"
+        ],
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+        "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+      },
+      {
+        "id": 11,
+        "gender": "men",
+        "category": "shoes",
+        "subcategory": "sneakers",
+        "productName": "Nike SB FORCE 58 UNISEX",
+        "brand": "Pier One'",
+        "price": 96,
+        "previousPrice": 105,
+        "photos": [
+          "http://localhost:3000/product-photos/men/shoes/nike-sb/nike-sb.webp",
+          "http://localhost:3000/product-photos/men/shoes/nike-sb/nike-sb-1.webp",
+          "http://localhost:3000/product-photos/men/shoes/nike-sb/nike-sb-2.webp",
+          "http://localhost:3000/product-photos/men/shoes/nike-sb/nike-sb-3.webp"
+        ],
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+        "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+      }
+    ]
+  },
+  "children": {
+    "bestsellers": [
+      {
+        "id": 30,
+        "gender": "children",
+        "category": "obuwie",
+        "subcategory": "eleganckie",
+        "productName": "Piękne butki",
+        "brand": "Producent 1",
+        "pricePLN": 499,
+        "priceUSD": 99,
+        "photos": [
+          "http://localhost:3000/product-photos/children-shoes-1.jpg",
+          "http://localhost:3000/product-photos/children-shoes-2.jpg",
+          "http://localhost:3000/product-photos/children-shoes-3.jpg"
+        ],
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+        "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+      },
+      {
+        "id": 31,
+        "gender": "children",
+        "category": "obuwie",
+        "subcategory": "sneakersy",
+        "productName": "Szybkie butki",
+        "brand": "Producent 2",
+        "pricePLN": 199,
+        "priceUSD": 39,
+        "photos": [
+          "http://localhost:3000/product-photos/children-shoes-2.jpg",
+          "http://localhost:3000/product-photos/children-shoes-1.jpg",
+          "http://localhost:3000/product-photos/children-shoes-3.jpg"
+        ],
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+        "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+      },
+      {
+        "id": 32,
+        "gender": "children",
+        "category": "odziez",
+        "subcategory": "spodnie",
+        "productName": "Niebieskie spodnie",
+        "brand": "Sun zi",
+        "pricePLN": 299,
+        "priceUSD": 59,
+        "photos": [
+          "http://localhost:3000/product-photos/children-trousers-1.jpg",
+          "http://localhost:3000/product-photos/children-trousers-2.jpg",
+          "http://localhost:3000/product-photos/children-trousers-3.jpg"
+        ],
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+        "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+      },
+      {
+        "id": 33,
+        "gender": "children",
+        "category": "odziez",
+        "subcategory": "spodnie",
+        "productName": "Różowe spodnie",
+        "brand": "Sun zi",
+        "pricePLN": 599,
+        "priceUSD": 119,
+        "photos": [
+          "http://localhost:3000/product-photos/children-trousers-2.jpg",
+          "http://localhost:3000/product-photos/children-trousers-3.jpg",
+          "http://localhost:3000/product-photos/children-trousers-1.jpg"
+        ],
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+        "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+      }
+    ]
+  },
+  "products": [
+    {
+      "id": 32,
+      "gender": "men",
+      "category": "clothes",
+      "subcategory": "pants",
+      "dress-style": "gym",
+      "productName": "Under Armour SET - Dres",
+      "brand": "Under Armour",
+      "price": 95,
+      "previousPrice": 115,
+      "photos": [
+        "http://localhost:3000/product-photos/men/pants/under-armour/under-armour.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 1,
+      "gender": "men",
+      "category": "clothes",
+      "subcategory": "t-shirts",
+      "dress-style": "casual",
+      "productName": "T-shirt Redefined Rebel",
+      "brand": "Redefined Rebel",
+      "price": 15,
+      "previousPrice": null,
+      "photos": [
+        "http://localhost:3000/product-photos/men/t-shirt/redefined-rebel/redefined-rebel.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/redefined-rebel/redefined-rebel-1.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/redefined-rebel/redefined-rebel-2.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/redefined-rebel/redefined-rebel-3.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 26,
+      "gender": "men",
+      "category": "clothes",
+      "subcategory": "coats",
+      "dress-style": "formal",
+      "productName": "Winter Coat NEXT",
+      "brand": "NEXT",
+      "price": 300,
+      "previousPrice": null,
+      "photos": [
+        "http://localhost:3000/product-photos/men/coats/winter-coat-next/winter-coat-next.webp",
+        "http://localhost:3000/product-photos/men/coats/winter-coat-next/winter-coat-next-1.webp",
+        "http://localhost:3000/product-photos/men/coats/winter-coat-next/winter-coat-next-2.webp",
+        "http://localhost:3000/product-photos/men/coats/winter-coat-next/winter-coat-next-3.webp",
+        "http://localhost:3000/product-photos/men/coats/winter-coat-next/winter-coat-next-4.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 9,
+      "gender": "men",
+      "category": "clothes",
+      "subcategory": "sweaters",
+      "dress-style": "casual",
+      "productName": "CHASIN' Sweater",
+      "brand": "CHASIN'",
+      "price": 63,
+      "previousPrice": 70,
+      "photos": [
+        "http://localhost:3000/product-photos/men/sweaters/chasin/chasin.webp",
+        "http://localhost:3000/product-photos/men/sweaters/chasin/chasin-1.webp",
+        "http://localhost:3000/product-photos/men/sweaters/chasin/chasin-2.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 2,
+      "gender": "men",
+      "category": "clothes",
+      "subcategory": "t-shirts",
+      "dress-style": "casual",
+      "productName": "T-shirt PULL&BEAR",
+      "brand": "PULL&BEAR",
+      "price": 20,
+      "previousPrice": null,
+      "photos": [
+        "http://localhost:3000/product-photos/men/t-shirt/pull&bear/pull&bear.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/pull&bear/pull&bear-1.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/pull&bear/pull&bear-2.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/pull&bear/pull&bear-3.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 3,
+      "gender": "men",
+      "category": "clothes",
+      "subcategory": "t-shirts",
+      "dress-style": "casual",
+      "productName": "T-shirt Red Bull Racing",
+      "brand": "Red Bull Racing",
+      "price": 30,
+      "previousPrice": null,
+      "photos": [
+        "http://localhost:3000/product-photos/men/t-shirt/red-bull-racing/red-bull-racing.webp",
+        "http://localhost:3000/product-photos/ment-shirt/red-bull-racing/red-bull-racing-1.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 10,
+      "gender": "men",
+      "category": "clothes",
+      "subcategory": "sweaters",
+      "dress-style": "casual",
+      "productName": "Pier One Sweater",
+      "brand": "Pier One'",
+      "price": 40,
+      "previousPrice": null,
+      "photos": [
+        "http://localhost:3000/product-photos/men/sweaters/pier-one/pier-one.webp",
+        "http://localhost:3000/product-photos/men/sweaters/pier-one/pier-one-1.webp",
+        "http://localhost:3000/product-photos/men/sweaters/pier-one/pier-one-2.webp",
+        "http://localhost:3000/product-photos/men/sweaters/pier-one/pier-one-3.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 4,
+      "gender": "men",
+      "category": "clothes",
+      "subcategory": "t-shirts",
+      "dress-style": "casual",
+      "productName": "T-shirt VISTULA",
+      "brand": "VISTULA",
+      "price": 14,
+      "previousPrice": null,
+      "photos": [
+        "http://localhost:3000/product-photos/men/t-shirt/vistula/vistula.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/vistula/vistula-1.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/vistula/vistula-2.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/vistula/vistula-3.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 5,
+      "gender": "men",
+      "category": "clothes",
+      "subcategory": "t-shirts",
+      "dress-style": "casual",
+      "productName": "T-shirt Wrangler",
+      "brand": "Wrangler",
+      "price": 32,
+      "previousPrice": null,
+      "photos": [
+        "http://localhost:3000/product-photos/men/t-shirt/wrangler/wrangler.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/wrangler/wrangler-1.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/wrangler/wrangler-2.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/wrangler/wrangler-3.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 34,
+      "gender": "men",
+      "category": "clothes",
+      "subcategory": "sweaters",
+      "dress-style": "gym",
+      "productName": "Under Armour Sweaters",
+      "brand": "Under Armour",
+      "price": 55,
+      "previousPrice": null,
+      "photos": [
+        "http://localhost:3000/product-photos/men/sweaters/under-armour/under-armour.webp",
+        "http://localhost:3000/product-photos/men/pants/under-armour/under-armour-1.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 6,
+      "gender": "men",
+      "category": "clothes",
+      "subcategory": "t-shirts",
+      "dress-style": "casual",
+      "productName": "T-shirt The North Face",
+      "brand": "The North Face",
+      "price": 32,
+      "previousPrice": null,
+      "photos": [
+        "http://localhost:3000/product-photos/men/t-shirt/the-north-face/the-north-face.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/the-north-face/the-north-face-1.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/the-north-face/the-north-face-2.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/the-north-face/the-north-face-3.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 7,
+      "gender": "men",
+      "category": "clothes",
+      "subcategory": "t-shirts",
+      "dress-style": "casual",
+      "productName": "T-shirt The North Face",
+      "brand": "The North Face",
+      "price": 39,
+      "previousPrice": 42,
+      "photos": [
+        "http://localhost:3000/product-photos/men/t-shirt/the-north-face-2/the-north-face-2.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/the-north-face-2/the-north-face-2-1.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/the-north-face-2/the-north-face-2-2.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/the-north-face-2/the-north-face-2-3.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 8,
+      "gender": "men",
+      "category": "clothes",
+      "subcategory": "t-shirts",
+      "dress-style": "casual",
+      "productName": "T-shirt The North Face",
+      "brand": "The North Face",
+      "price": 30,
+      "previousPrice": 37,
+      "photos": [
+        "http://localhost:3000/product-photos/men/t-shirt/the-north-face-3/the-north-face-3.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/the-north-face-3/the-north-face-3-1.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/the-north-face-3/the-north-face-3-2.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/the-north-face-3/the-north-face-3-3.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 20,
+      "gender": "men",
+      "category": "clothes",
+      "subcategory": "t-shirts",
+      "dress-style": "casual",
+      "productName": "T-shirt Redefined Rebel",
+      "brand": "Redefined Rebel",
+      "price": 15,
+      "previousPrice": null,
+      "photos": [
+        "http://localhost:3000/product-photos/men/t-shirt/redefined-rebel/redefined-rebel.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/redefined-rebel/redefined-rebel-1.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/redefined-rebel/redefined-rebel-2.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/redefined-rebel/redefined-rebel-3.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 21,
+      "gender": "men",
+      "category": "clothes",
+      "subcategory": "t-shirts",
+      "dress-style": "casual",
+      "productName": "T-shirt VISTULA",
+      "brand": "VISTULA",
+      "price": 14,
+      "previousPrice": null,
+      "photos": [
+        "http://localhost:3000/product-photos/men/t-shirt/vistula/vistula.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/vistula/vistula-1.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/vistula/vistula-2.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/vistula/vistula-3.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 22,
+      "gender": "men",
+      "category": "clothes",
+      "subcategory": "t-shirts",
+      "dress-style": "casual",
+      "productName": "T-shirt Wrangler",
+      "brand": "Wrangler",
+      "price": 32,
+      "previousPrice": null,
+      "photos": [
+        "http://localhost:3000/product-photos/men/t-shirt/wrangler/wrangler.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/wrangler/wrangler-1.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/wrangler/wrangler-2.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/wrangler/wrangler-3.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 23,
+      "gender": "men",
+      "category": "clothes",
+      "subcategory": "t-shirts",
+      "dress-style": "casual",
+      "productName": "T-shirt The North Face",
+      "brand": "The North Face",
+      "price": 32,
+      "previousPrice": null,
+      "photos": [
+        "http://localhost:3000/product-photos/men/t-shirt/the-north-face/the-north-face.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/the-north-face/the-north-face-1.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/the-north-face/the-north-face-2.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/the-north-face/the-north-face-3.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 24,
+      "gender": "men",
+      "category": "clothes",
+      "subcategory": "t-shirts",
+      "dress-style": "casual",
+      "productName": "T-shirt The North Face",
+      "brand": "The North Face",
+      "price": 39,
+      "previousPrice": 42,
+      "photos": [
+        "http://localhost:3000/product-photos/men/t-shirt/the-north-face-2/the-north-face-2.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/the-north-face-2/the-north-face-2-1.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/the-north-face-2/the-north-face-2-2.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/the-north-face-2/the-north-face-2-3.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 25,
+      "gender": "men",
+      "category": "clothes",
+      "subcategory": "t-shirts",
+      "dress-style": "casual",
+      "productName": "T-shirt The North Face",
+      "brand": "The North Face",
+      "price": 30,
+      "previousPrice": 37,
+      "photos": [
+        "http://localhost:3000/product-photos/men/t-shirt/the-north-face-3/the-north-face-3.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/the-north-face-3/the-north-face-3-1.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/the-north-face-3/the-north-face-3-2.webp",
+        "http://localhost:3000/product-photos/men/t-shirt/the-north-face-3/the-north-face-3-3.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 35,
+      "gender": "men",
+      "category": "clothes",
+      "subcategory": "t-shirts",
+      "dress-style": "gym",
+      "productName": "Under Armour T-shirts",
+      "brand": "Under Armour",
+      "price": 20,
+      "previousPrice": null,
+      "photos": [
+        "http://localhost:3000/product-photos/men/t-shirt/under-armour/under-armour.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 27,
+      "gender": "men",
+      "category": "clothes",
+      "subcategory": "coats",
+      "dress-style": "formal",
+      "productName": "Classic Coat WE Fashion",
+      "brand": "WE Fashion",
+      "price": 280,
+      "previousPrice": 299,
+      "photos": [
+        "http://localhost:3000/product-photos/men/coats/classic-coat-we-fashion/classic-coat-we-fashion.webp",
+        "http://localhost:3000/product-photos/men/coats/classic-coat-we-fashion/classic-coat-we-fashion-1.webp",
+        "http://localhost:3000/product-photos/men/coats/classic-coat-we-fashion/classic-coat-we-fashion-2.webp",
+        "http://localhost:3000/product-photos/men/coats/classic-coat-we-fashion/classic-coat-we-fashion-3.webp",
+        "http://localhost:3000/product-photos/men/coats/classic-coat-we-fashion/classic-coat-we-fashion-4.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+
+    {
+      "id": 11,
+      "gender": "men",
+      "category": "shoes",
+      "subcategory": "sneakers",
+      "dress-style": "casual",
+      "productName": "Nike SB FORCE 58 UNISEX",
+      "brand": "Pier One'",
+      "price": 96,
+      "previousPrice": 105,
+      "photos": [
+        "http://localhost:3000/product-photos/men/shoes/nike-sb/nike-sb.webp",
+        "http://localhost:3000/product-photos/men/shoes/nike-sb/nike-sb-1.webp",
+        "http://localhost:3000/product-photos/men/shoes/nike-sb/nike-sb-2.webp",
+        "http://localhost:3000/product-photos/men/shoes/nike-sb/nike-sb-3.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 12,
+      "gender": "men",
+      "category": "shoes",
+      "subcategory": "sneakers",
+      "productName": "Timberland",
+      "dress-style": "casual",
+      "brand": "Timberland'",
+      "price": 160,
+      "previousPrice": 179,
+      "photos": [
+        "http://localhost:3000/product-photos/men/shoes/timberland/timberland.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 13,
+      "gender": "men",
+      "category": "shoes",
+      "subcategory": "sporty",
+      "dress-style": "gym",
+      "productName": "Columbia REDMOND III MID",
+      "brand": "Columbia'",
+      "price": 130,
+      "previousPrice": 145,
+      "photos": [
+        "http://localhost:3000/product-photos/men/shoes/columbia/columbia.webp",
+        "http://localhost:3000/product-photos/men/shoes/columbia/columbia-1.webp",
+        "http://localhost:3000/product-photos/men/shoes/columbia/columbia-2.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+
+    {
+      "id": 14,
+      "gender": "women",
+      "category": "clothes",
+      "subcategory": "t-shirts",
+      "dress-style": "casual",
+      "productName": "POLO RALPH LAUREN T-SHIRT",
+      "brand": "POLO RALPH LAUREN",
+      "price": 88,
+      "previousPrice": null,
+      "photos": [
+        "http://localhost:3000/product-photos/women/t-shirt/polo-ralph/polo-ralph.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 15,
+      "gender": "women",
+      "category": "clothes",
+      "subcategory": "t-shirts",
+      "dress-style": "casual",
+      "productName": "PULL&BEAR T-SHIRT",
+      "brand": "PULL&BEAR",
+      "price": 50,
+      "previousPrice": 55,
+      "photos": [
+        "http://localhost:3000/product-photos/women/t-shirt/pull&bear/pull&bear.webp",
+        "http://localhost:3000/product-photos/women/t-shirt/pull&bear/pull&bear-1.webp",
+        "http://localhost:3000/product-photos/women/t-shirt/pull&bear/pull&bear-2.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 16,
+      "gender": "women",
+      "category": "clothes",
+      "subcategory": "t-shirts",
+      "dress-style": "casual",
+      "productName": "Vans FLYING V - T-shirt",
+      "brand": "Vans",
+      "price": 16,
+      "previousPrice": null,
+      "photos": [
+        "http://localhost:3000/product-photos/women/t-shirt/vans/vans.webp",
+        "http://localhost:3000/product-photos/women/t-shirt/vans/vans-1.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+
+    {
+      "id": 17,
+      "gender": "women",
+      "category": "clothes",
+      "subcategory": "sweaters",
+      "dress-style": "casual",
+      "productName": "NEXT Sweater",
+      "brand": "NEXT'",
+      "price": 45,
+      "previousPrice": 55,
+      "photos": [
+        "http://localhost:3000/product-photos/women/sweaters/next/next.webp",
+        "http://localhost:3000/product-photos/women/sweaters/next/next-1.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 18,
+      "gender": "women",
+      "category": "clothes",
+      "subcategory": "sweaters",
+      "dress-style": "casual",
+      "productName": "Vero Moda Petite",
+      "brand": "Vero Moda Petite'",
+      "price": 26,
+      "previousPrice": 35,
+      "photos": [
+        "http://localhost:3000/product-photos/women/sweaters/vero-moda/vero-moda.webp",
+        "http://localhost:3000/product-photos/women/sweaters/vero-moda/vero-moda-1.webp",
+        "http://localhost:3000/product-photos/women/sweaters/vero-moda/vero-moda-2.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+
+    {
+      "id": 19,
+      "gender": "women",
+      "category": "shoes",
+      "subcategory": "sneakers",
+      "dress-style": "casual",
+      "productName": "New Balance 550 UNISEX ",
+      "brand": "New Balance'",
+      "price": 108,
+      "previousPrice": 120,
+      "photos": [
+        "http://localhost:3000/product-photos/women/shoes/new-balance/new-balance.webp",
+        "http://localhost:3000/product-photos/women/shoes/new-balance/new-balance-1.webp",
+        "http://localhost:3000/product-photos/women/shoes/new-balance/new-balance-2.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 28,
+      "gender": "women",
+      "category": "clothes",
+      "subcategory": "coats",
+      "dress-style": "formal",
+      "productName": "Winter Coat OCHNIK",
+      "brand": "OCHNIK",
+      "price": 100,
+      "previousPrice": 125,
+      "photos": [
+        "http://localhost:3000/product-photos/women/coats/winter-coat-ochnik/winter-coat-ochnik.webp",
+        "http://localhost:3000/product-photos/women/coats/winter-coat-ochnik/winter-coat-ochnik-1.webp",
+        "http://localhost:3000/product-photos/women/coats/winter-coat-ochnik/winter-coat-ochnik-2.webp",
+        "http://localhost:3000/product-photos/women/coats/winter-coat-ochnik/winter-coat-ochnik-3.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 29,
+      "gender": "women",
+      "category": "clothes",
+      "subcategory": "pants",
+      "dress-style": "formal",
+      "productName": "Kaffe KAMERLE - Chinosy",
+      "brand": "Kaffe",
+      "price": 84,
+      "previousPrice": 90,
+      "photos": [
+        "http://localhost:3000/product-photos/women/pants/kaffe-karmerle/kaffe-karmerle.webp",
+        "http://localhost:3000/product-photos/women/pants/kaffe-karmerle/kaffe-karmerle-1.webp",
+        "http://localhost:3000/product-photos/women/pants/kaffe-karmerle/kaffe-karmerle-2.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 30,
+      "gender": "women",
+      "category": "clothes",
+      "subcategory": "pants",
+      "dress-style": "casual",
+      "productName": "Diverse BRENE - Fabric Trousers",
+      "brand": "Diverse BRENE",
+      "price": 36,
+      "previousPrice": null,
+      "photos": [
+        "http://localhost:3000/product-photos/women/pants/diverse-brene/diverse-brene.webp",
+        "http://localhost:3000/product-photos/women/pants/diverse-brene/diverse-brene-1.webp",
+        "http://localhost:3000/product-photos/women/pants/diverse-brene/diverse-brene-2.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 31,
+      "gender": "men",
+      "category": "clothes",
+      "subcategory": "pants",
+      "dress-style": "formal",
+      "productName": "Mango MURLO - Fabric Trousers",
+      "brand": "Mango MURLO",
+      "price": 42,
+      "previousPrice": null,
+      "photos": [
+        "http://localhost:3000/product-photos/men/pants/mango-murlo/mango-murlo.webp",
+        "http://localhost:3000/product-photos/men/pants/mango-murlo/mango-murlo-1.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+    {
+      "id": 33,
+      "gender": "men",
+      "category": "clothes",
+      "subcategory": "pants",
+      "dress-style": "casual",
+      "productName": "Adidas Sportswear - Training pants",
+      "brand": "Adidas Sportswear",
+      "price": 66,
+      "previousPrice": 75,
+      "photos": [
+        "http://localhost:3000/product-photos/men/pants/adidas-sportswear/adidas-sportswear.webp",
+        "http://localhost:3000/product-photos/men/pants/adidas-sportswear/adidas-sportswear-1.webp",
+        "http://localhost:3000/product-photos/men/pants/adidas-sportswear/adidas-sportswear-2.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    },
+
+    {
+      "id": 36,
+      "gender": "men",
+      "category": "accessories",
+      "subcategory": "bags",
+      "dress-style": "gym",
+      "productName": "WITTCHEN Bag",
+      "brand": "WITTCHEN",
+      "price": 20,
+      "previousPrice": null,
+      "photos": [
+        "http://localhost:3000/product-photos/men/bags/wittchen/wittchen.webp",
+        "http://localhost:3000/product-photos/men/bags/wittchen/wittchen-1.webp",
+        "http://localhost:3000/product-photos/men/bags/wittchen/wittchen-2.webp"
+      ],
+      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla facilis aperiam, magnam dolorum sit expedita nihil nostrum, voluptates temporibus voluptatum atque ullam molestiae provident dolore eligendi? Esse amet dolore illum.",
+      "maintenanceInfo": "Nemo et nam quasi in suscipit earum odit laborum repellat quo dolore rem, sequi eaque sapiente quibu"
+    }
+  ]
+}

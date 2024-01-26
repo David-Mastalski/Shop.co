@@ -1,0 +1,50 @@
+.wrapper {
+  background-color: var(--background-color-grey);
+  border-radius: 4rem;
+  margin-top: 8rem;
+  width: 100%;
+  padding: 64px;
+}
+
+.gridContainer {
+  display: grid;
+  grid-template-columns: 0.4fr 0.2fr 0.4fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 20px;
+  margin-top: 35px;
+  width: 100%;
+}
+
+.styleTile {
+  position: relative;
+
+  background-size: cover;
+  border-radius: 2rem;
+  height: 289px;
+  width: 100%;
+}
+
+.styleTile p {
+  position: absolute;
+  top: 25px;
+  left: 25px;
+
+  font-size: 3.4rem;
+  font-weight: 500;
+}
+
+.styleTile:nth-child(1) {
+  grid-column: 1/2;
+}
+
+.styleTile:nth-child(2) {
+  grid-column: 2/4;
+}
+
+.styleTile:nth-child(3) {
+  grid-column: 1/3;
+}
+
+.styleTile:nth-child(4) {
+  grid-column: 3/4;
+}

@@ -1,0 +1,29 @@
+.pathNav {
+  border-top: 2px solid var(--background-color-grey);
+  padding: 20px 0;
+}
+
+.pathNav,
+.pathNav li a {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.pathNav li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  font-size: 1.3rem;
+}
+
+.pathNav li a img {
+  width: 13px;
+  height: 13px;
+}
+
+.pathNav li:last-child img {
+  display: none;
+  visibility: hidden;
+}

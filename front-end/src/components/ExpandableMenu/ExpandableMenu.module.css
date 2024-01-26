@@ -1,0 +1,59 @@
+.filters {
+  display: flex;
+  flex-direction: column;
+  gap: 2.4rem;
+
+  border-radius: 2rem;
+  border: 2px solid var(--background-color-grey);
+  min-width: 270px;
+  width: 270px;
+  padding: 2rem 2.4rem;
+}
+
+.filters hr {
+  background-color: var(--background-color-grey);
+  border: none;
+  height: 2px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header .title {
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+.expandableMenu {
+  display: flex;
+  flex-direction: column;
+}
+
+.expandableMenu {
+  gap: 2rem;
+}
+
+.menuItem {
+  cursor: pointer;
+}
+
+.menuItem > div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.menuItem a {
+  font-size: 1.6rem;
+  font-weight: 400;
+  width: 100%;
+}
+
+.sectionTitle {
+  font-size: 2.1rem;
+  font-weight: 500;
+  margin-bottom: 2rem;
+}
