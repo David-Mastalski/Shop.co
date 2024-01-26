@@ -42,3 +42,4 @@ Shop.co was created out of passion for fashion and the need to provide high-qual
 <img src="https://github.com/David-Mastalski/Shop.co/blob/main/demo/demo2.png" alt="Shop.co" width="100%">
 <img src="https://github.com/David-Mastalski/Shop.co/blob/main/demo/demo3.png" alt="Shop.co" width="100%">
 <img src="https://github.com/David-Mastalski/Shop.co/blob/main/demo/demo4.png" alt="Shop.co" width="100%">
+<img src="https://github.com/David-Mastalski/Shop.co/blob/main/demo/demo5.png" alt="Shop.co" width="100%">
