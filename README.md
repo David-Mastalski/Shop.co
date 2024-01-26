@@ -27,3 +27,10 @@ Shop.co was created out of passion for fashion and the need to provide high-qual
  
 ## Promotional Code
 - _**enter "kodpromocyjny" and receive a 25% discount on your purchases!!**_
+
+ ## Installation 
+- _Clone this repository to your local computer - git clone https://github.com/David-Mastalski/Shop.co.git_
+- _Navigate to the application directory_
+- _Open the directory with a code editor such as Visual Studio Code_
+- _Run the "npm i" command in the terminal_
+- _Run the "npm run dev" command in the terminal_
