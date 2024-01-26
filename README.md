@@ -34,3 +34,6 @@ Shop.co was created out of passion for fashion and the need to provide high-qual
 - _Open the directory with a code editor such as Visual Studio Code_
 - _Run the "npm i" command in the terminal_
 - _Run the "npm run dev" command in the terminal_
+
+<img align="left" src="https://github.com/David-Mastalski/Shop.co/blob/main/demo/demo.png" alt="Shop.co" width="50%">
+<img align="right" src="https://github.com/David-Mastalski/Shop.co/blob/main/demo/demo1.png" alt="Shop.co" width="50%">
