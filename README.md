@@ -10,3 +10,20 @@ Welcome to our online fashion store for women and men! Our platform offers a wid
 
 ## About Us
 Shop.co was created out of passion for fashion and the need to provide high-quality products to our customers. Our goal is to provide a wide selection of fashionable and comfortable clothes for men, women and children in various styles and sizes.
+
+## Offer
+- _**Clothes**_
+  - T-Shirts
+  - Sweaters
+  - Coats
+  - Pants
+- _**Shoes**_
+  - Elegant
+  - Sneakers
+  - Sporty
+- _**Accessories**_
+  - Bags
+  - Watches
+ 
+## Promotional Code
+- _**enter "kodpromocyjny" and receive a 25% discount on your purchases!!**_
