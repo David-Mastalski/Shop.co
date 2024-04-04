@@ -21,13 +21,11 @@ Clone this repository to your local computer
 ```
 git clone https://github.com/David-Mastalski/Shop.co.git
 ```
-Navigate to the application directory.\n
+Navigate to the application directory
+
 Open the directory with a code editor such as Visual Studio Code
 - _Run the "npm i" command in the terminal_
 - _Run the "npm run dev" command in the terminal_
-
-To jest pierwsza linia.\n
-To jest druga linia.
 
 
  ## Demo
