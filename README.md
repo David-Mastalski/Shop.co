@@ -17,9 +17,12 @@ kodpromocyjny
 ```
 
  ## Installation 
-- _Clone this repository to your local computer - git clone https://github.com/David-Mastalski/Shop.co.git_
-- _Navigate to the application directory_
-- _Open the directory with a code editor such as Visual Studio Code_
+Clone this repository to your local computer
+```
+git clone https://github.com/David-Mastalski/Shop.co.git
+```
+Navigate to the application directory
+Open the directory with a code editor such as Visual Studio Code
 - _Run the "npm i" command in the terminal_
 - _Run the "npm run dev" command in the terminal_
 
