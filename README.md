@@ -26,6 +26,10 @@ Open the directory with a code editor such as Visual Studio Code
 - _Run the "npm i" command in the terminal_
 - _Run the "npm run dev" command in the terminal_
 
+To jest pierwsza linia.\n
+To jest druga linia.
+
+
  ## Demo
  
 <img src="https://github.com/David-Mastalski/Shop.co/blob/main/demo/demo.png" alt="Shop.co" width="100%">
